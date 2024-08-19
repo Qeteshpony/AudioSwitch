@@ -663,80 +663,80 @@
 		)
 	)
 	(no_connect
-		(at 139.7 95.25)
+		(at 142.24 95.25)
 		(uuid "0270c6d1-6778-4683-a6c0-e671dadedf3d")
 	)
 	(no_connect
-		(at 96.52 60.96)
+		(at 92.71 60.96)
 		(uuid "0e9e135c-b577-45b6-b9f3-53150aeb935e")
 	)
 	(no_connect
-		(at 139.7 58.42)
+		(at 142.24 58.42)
 		(uuid "118c1c38-1d6c-47ad-a216-123a9043c902")
 	)
 	(no_connect
-		(at 139.7 63.5)
+		(at 142.24 63.5)
 		(uuid "14800b60-f32c-404c-abdd-7c7657bb7469")
 	)
 	(no_connect
-		(at 96.52 82.55)
+		(at 92.71 82.55)
 		(uuid "2ed370a9-413c-4151-ba49-86cfcc5244c3")
 	)
 	(no_connect
-		(at 96.52 77.47)
+		(at 92.71 77.47)
 		(uuid "3ca9ca91-4f65-4ab7-b8af-cf6bd40ab83b")
 	)
 	(no_connect
-		(at 139.7 116.84)
+		(at 142.24 116.84)
 		(uuid "5e60c989-065f-4722-ad62-bf8fe99d89db")
 	)
 	(no_connect
-		(at 139.7 121.92)
+		(at 142.24 121.92)
 		(uuid "75ef8c2e-ddf7-47b1-8e55-17861e25af35")
 	)
 	(no_connect
-		(at 96.52 80.01)
+		(at 92.71 80.01)
 		(uuid "774271c9-b1a2-40e1-acfc-84bb30c104a8")
 	)
 	(no_connect
-		(at 96.52 66.04)
+		(at 92.71 66.04)
 		(uuid "8476709d-0f3a-4895-a8f3-d9b2b0387b6b")
 	)
 	(no_connect
-		(at 139.7 53.34)
+		(at 142.24 53.34)
 		(uuid "9a46d3f3-0b82-43a7-8ae0-e4988076100f")
 	)
 	(no_connect
-		(at 96.52 55.88)
+		(at 92.71 55.88)
 		(uuid "a4a384ab-8302-4c03-bfdb-d5267feb83e1")
 	)
 	(no_connect
-		(at 139.7 119.38)
+		(at 142.24 119.38)
 		(uuid "a7b39918-006f-4a48-b47a-d82379895ee8")
 	)
 	(no_connect
-		(at 139.7 74.93)
+		(at 142.24 74.93)
 		(uuid "a88cb290-b889-4a7e-9da7-739542b6ec8e")
 	)
 	(no_connect
-		(at 139.7 105.41)
+		(at 142.24 105.41)
 		(uuid "be0f86b3-7324-4beb-988f-8b0f6cf7f601")
 	)
 	(no_connect
-		(at 139.7 77.47)
+		(at 142.24 77.47)
 		(uuid "d38112ca-225f-4502-92c9-6998c4dc0037")
 	)
 	(no_connect
-		(at 139.7 100.33)
+		(at 142.24 100.33)
 		(uuid "df2dbeb8-fa17-4504-8977-465b8d03d774")
 	)
 	(no_connect
-		(at 139.7 80.01)
+		(at 142.24 80.01)
 		(uuid "ed6cfaed-6d99-4cd1-adc6-0cff37773ff2")
 	)
 	(wire
 		(pts
-			(xy 139.7 85.09) (xy 132.08 85.09)
+			(xy 142.24 85.09) (xy 129.54 85.09)
 		)
 		(stroke
 			(width 0)
@@ -746,7 +746,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 85.09) (xy 106.68 85.09)
+			(xy 92.71 85.09) (xy 106.68 85.09)
 		)
 		(stroke
 			(width 0)
@@ -756,7 +756,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 124.46) (xy 139.7 124.46)
+			(xy 121.92 124.46) (xy 142.24 124.46)
 		)
 		(stroke
 			(width 0)
@@ -766,7 +766,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 87.63) (xy 127 124.46)
+			(xy 121.92 87.63) (xy 121.92 124.46)
 		)
 		(stroke
 			(width 0)
@@ -776,7 +776,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 66.04) (xy 129.54 102.87)
+			(xy 124.46 66.04) (xy 124.46 102.87)
 		)
 		(stroke
 			(width 0)
@@ -786,7 +786,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 58.42) (xy 96.52 58.42)
+			(xy 100.33 58.42) (xy 92.71 58.42)
 		)
 		(stroke
 			(width 0)
@@ -796,7 +796,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 63.5) (xy 106.68 63.5)
+			(xy 92.71 63.5) (xy 106.68 63.5)
 		)
 		(stroke
 			(width 0)
@@ -806,7 +806,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 55.88) (xy 139.7 55.88)
+			(xy 129.54 55.88) (xy 142.24 55.88)
 		)
 		(stroke
 			(width 0)
@@ -816,7 +816,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 66.04) (xy 129.54 66.04)
+			(xy 116.84 66.04) (xy 124.46 66.04)
 		)
 		(stroke
 			(width 0)
@@ -826,7 +826,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 87.63) (xy 101.6 87.63)
+			(xy 92.71 87.63) (xy 100.33 87.63)
 		)
 		(stroke
 			(width 0)
@@ -836,7 +836,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 127) (xy 132.08 127)
+			(xy 142.24 127) (xy 129.54 127)
 		)
 		(stroke
 			(width 0)
@@ -846,7 +846,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 82.55) (xy 139.7 82.55)
+			(xy 116.84 82.55) (xy 142.24 82.55)
 		)
 		(stroke
 			(width 0)
@@ -856,7 +856,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 87.63) (xy 127 87.63)
+			(xy 116.84 87.63) (xy 121.92 87.63)
 		)
 		(stroke
 			(width 0)
@@ -866,7 +866,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 127) (xy 132.08 97.79)
+			(xy 129.54 127) (xy 129.54 97.79)
 		)
 		(stroke
 			(width 0)
@@ -876,7 +876,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 102.87) (xy 139.7 102.87)
+			(xy 124.46 102.87) (xy 142.24 102.87)
 		)
 		(stroke
 			(width 0)
@@ -886,7 +886,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 87.63) (xy 101.6 58.42)
+			(xy 100.33 87.63) (xy 100.33 58.42)
 		)
 		(stroke
 			(width 0)
@@ -896,7 +896,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 85.09) (xy 132.08 55.88)
+			(xy 129.54 85.09) (xy 129.54 55.88)
 		)
 		(stroke
 			(width 0)
@@ -906,7 +906,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 97.79) (xy 139.7 97.79)
+			(xy 129.54 97.79) (xy 142.24 97.79)
 		)
 		(stroke
 			(width 0)
@@ -916,7 +916,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 60.96) (xy 139.7 60.96)
+			(xy 116.84 60.96) (xy 142.24 60.96)
 		)
 		(stroke
 			(width 0)
@@ -925,7 +925,7 @@
 		(uuid "ef5fd79d-8426-49b7-9620-e2a1f72949ef")
 	)
 	(label "GND"
-		(at 96.52 53.34 0)
+		(at 92.71 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -936,18 +936,18 @@
 		(uuid "0469b2dd-3815-4da8-916f-7506b2172044")
 	)
 	(label "OUT2_R"
-		(at 118.11 87.63 0)
+		(at 142.24 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "059c8361-2ada-4a68-8641-0ddf3761fa03")
 	)
 	(label "GND"
-		(at 139.7 50.8 180)
+		(at 142.24 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -958,7 +958,7 @@
 		(uuid "0688867c-9b94-45e5-976a-7ab7e17fafd0")
 	)
 	(label "GND"
-		(at 139.7 72.39 180)
+		(at 142.24 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -969,7 +969,7 @@
 		(uuid "089d4e06-d4cd-40a2-9cc9-eda763a0f15c")
 	)
 	(label "GND"
-		(at 139.7 114.3 180)
+		(at 142.24 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -991,7 +991,7 @@
 		(uuid "2663604e-5eca-4860-a77c-e2ec15904b99")
 	)
 	(label "OUT2_S"
-		(at 139.7 97.79 180)
+		(at 142.24 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1002,7 +1002,7 @@
 		(uuid "40ac08cd-2215-4655-8ccd-f4a1f764d60b")
 	)
 	(label "IN_L"
-		(at 96.52 63.5 0)
+		(at 92.71 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1013,18 +1013,18 @@
 		(uuid "72adb91e-42fb-4a6b-93b2-b3c36f71a199")
 	)
 	(label "OUT1_R"
-		(at 118.11 82.55 0)
+		(at 142.24 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "8531ccc9-dc29-44bf-bbc8-ba44f4a01381")
 	)
 	(label "OUT1_S"
-		(at 139.7 55.88 180)
+		(at 142.24 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1035,7 +1035,7 @@
 		(uuid "891db343-fba7-4933-94fb-694b104fcf5a")
 	)
 	(label "GND"
-		(at 96.52 74.93 0)
+		(at 92.71 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1057,18 +1057,18 @@
 		(uuid "cac3c7c4-ce03-41fc-b9c4-2d07915526e2")
 	)
 	(label "OUT1_L"
-		(at 118.11 60.96 0)
+		(at 142.24 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "cf9b426c-8be5-430d-a342-c867440b9afb")
 	)
 	(label "IN_S"
-		(at 96.52 58.42 0)
+		(at 92.71 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1079,7 +1079,7 @@
 		(uuid "d20837e8-13c3-487c-ad57-7b63fe9fafba")
 	)
 	(label "IN_R"
-		(at 96.52 85.09 0)
+		(at 92.71 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1090,7 +1090,7 @@
 		(uuid "dc53057c-b428-4bb6-b81f-cf5450169ea5")
 	)
 	(label "GND"
-		(at 139.7 92.71 180)
+		(at 142.24 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1101,19 +1101,19 @@
 		(uuid "fac9517f-c1f1-4804-82e5-084ecae5c67b")
 	)
 	(label "OUT2_L"
-		(at 118.11 66.04 0)
+		(at 142.24 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "fd81668b-a040-4db7-a48e-814d352d67bb")
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 144.78 55.88 0)
+		(at 147.32 55.88 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1123,7 +1123,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c2feadb-fafa-4900-89ae-293dd2e5ff6d")
 		(property "Reference" "J3"
-			(at 152.4 55.8799 0)
+			(at 154.94 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1132,7 +1132,7 @@
 			)
 		)
 		(property "Value" "OUT1_L"
-			(at 152.4 58.4199 0)
+			(at 154.94 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1141,7 +1141,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal"
-			(at 144.78 55.88 0)
+			(at 147.32 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1150,7 +1150,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 55.88 0)
+			(at 147.32 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1159,7 +1159,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
-			(at 144.78 55.88 0)
+			(at 147.32 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1196,7 +1196,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 91.44 80.01 0)
+		(at 87.63 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1205,7 +1205,7 @@
 		(fields_autoplaced yes)
 		(uuid "14219c13-fc08-405f-8972-5396fb8102c6")
 		(property "Reference" "J2"
-			(at 89.535 68.58 0)
+			(at 85.725 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1213,7 +1213,7 @@
 			)
 		)
 		(property "Value" "IN_R"
-			(at 89.535 71.12 0)
+			(at 85.725 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1221,7 +1221,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal"
-			(at 91.44 80.01 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1230,7 +1230,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 80.01 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1239,7 +1239,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
-			(at 91.44 80.01 0)
+			(at 87.63 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1356,7 +1356,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 144.78 77.47 0)
+		(at 147.32 77.47 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1366,7 +1366,7 @@
 		(fields_autoplaced yes)
 		(uuid "2be57fd2-9622-4c8c-99d0-e99dd9a97379")
 		(property "Reference" "J4"
-			(at 152.4 77.4699 0)
+			(at 154.94 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1375,7 +1375,7 @@
 			)
 		)
 		(property "Value" "OUT1_R"
-			(at 152.4 80.0099 0)
+			(at 154.94 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1384,7 +1384,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal"
-			(at 144.78 77.47 0)
+			(at 147.32 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1393,7 +1393,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 77.47 0)
+			(at 147.32 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1402,7 +1402,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
-			(at 144.78 77.47 0)
+			(at 147.32 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1519,7 +1519,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 91.44 58.42 0)
+		(at 87.63 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1528,7 +1528,7 @@
 		(fields_autoplaced yes)
 		(uuid "34d277d0-73b0-4706-9a1e-9107ba0cc68b")
 		(property "Reference" "J1"
-			(at 89.535 46.99 0)
+			(at 85.725 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1536,7 +1536,7 @@
 			)
 		)
 		(property "Value" "IN_L"
-			(at 89.535 49.53 0)
+			(at 85.725 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1544,7 +1544,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal"
-			(at 91.44 58.42 0)
+			(at 87.63 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1553,7 +1553,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 58.42 0)
+			(at 87.63 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1562,7 +1562,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
-			(at 91.44 58.42 0)
+			(at 87.63 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1599,7 +1599,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 144.78 119.38 0)
+		(at 147.32 119.38 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1609,7 +1609,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c3dde48-9844-4d5f-b310-6aeec7b7be99")
 		(property "Reference" "J6"
-			(at 152.4 119.3799 0)
+			(at 154.94 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1618,7 +1618,7 @@
 			)
 		)
 		(property "Value" "OUT2_R"
-			(at 152.4 121.9199 0)
+			(at 154.94 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1627,7 +1627,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal"
-			(at 144.78 119.38 0)
+			(at 147.32 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1636,7 +1636,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 119.38 0)
+			(at 147.32 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1645,7 +1645,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
-			(at 144.78 119.38 0)
+			(at 147.32 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1682,7 +1682,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 144.78 97.79 0)
+		(at 147.32 97.79 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1692,7 +1692,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1c6f992-6778-4a51-a8d5-635197aca97f")
 		(property "Reference" "J5"
-			(at 152.4 97.7899 0)
+			(at 154.94 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1701,7 +1701,7 @@
 			)
 		)
 		(property "Value" "OUT2_L"
-			(at 152.4 100.3299 0)
+			(at 154.94 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1710,7 +1710,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal"
-			(at 144.78 97.79 0)
+			(at 147.32 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1719,7 +1719,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 97.79 0)
+			(at 147.32 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1728,7 +1728,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
-			(at 144.78 97.79 0)
+			(at 147.32 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
